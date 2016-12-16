@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/izolate/html2pug.git"
+    "url": "git+ssh://git@github.com/thanhtrixx/html2pug.git"
   },
   "keywords": [
     "html",
@@ -27,10 +27,10 @@
     "convert",
     "templates"
   ],
-  "author": "izolate <yoshtalwar@gmail.com> (http://izolate.net/)",
+  "author": "TriLe <thanhtrixx@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/izolate/html2pug/issues"
+    "url": "https://github.com/thanhtrixx/html2pug/issues"
   },
-  "homepage": "https://github.com/izolate/html2pug#readme"
+  "homepage": "https://github.com/thanhtrixx/html2pug#readme"
 }
